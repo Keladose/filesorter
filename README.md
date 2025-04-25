@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5bd199b5-b255-479b-bd58-98547622cc66)# Program Description
+# Program Description
 This program simply uses system paths to sort files into directories through their file types.
 
 # Getting started
